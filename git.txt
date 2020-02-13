@@ -1,4 +1,4 @@
 git config --global credential.helper store   - активировать хранилище
-учётных данных для всех git репохиториев
+учётных данных для всех git репозиториев
 
 git remote rm "destination" -  перестать управлять репозиторием 
